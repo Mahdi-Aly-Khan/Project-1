@@ -1,7 +1,7 @@
 @font-face {
     font-family: nimbus;
-    src: url(Nimbus/NimbusSanL-Reg.otf);
-    font-style: normal;
+    src: url("NimbusSanL-Reg.woff2");
+    font-style: nimbus;
 }
 *{
     margin: 0;
